@@ -32,7 +32,7 @@ class Program
 
         hoofd.yPos = screenheight / 2;
 
-        hoofd.schermkleur = ConsoleColor.Red;
+        hoofd.schermKleur = ConsoleColor.Red;
 
         string movement = "RIGHT";
 
