@@ -190,7 +190,7 @@ class Program
 
                     movement = "DOWN";
 
-                // ???
+                    break;
 
                 case ConsoleKey.LeftArrow:
 
