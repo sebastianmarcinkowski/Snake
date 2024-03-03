@@ -30,7 +30,7 @@ class Program
 
         hoofd.xPos = screenwidth / 2;
 
-        hoofd.ypos = screenheight / 2;
+        hoofd.yPos = screenheight / 2;
 
         hoofd.schermkleur = ConsoleColor.Red;
 
