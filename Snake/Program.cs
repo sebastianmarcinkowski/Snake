@@ -28,7 +28,7 @@ class Program
 
         Pixel hoofd = new Pixel();
 
-        hoofd.xpos = screenwidth / 2;
+        hoofd.xPos = screenwidth / 2;
 
         hoofd.ypos = screenheight / 2;
 
