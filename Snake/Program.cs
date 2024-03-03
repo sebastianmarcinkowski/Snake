@@ -40,7 +40,7 @@ class Program
 
         int score = 0;
 
-        Pixel hoofd = new Pixel();
+        hoofd = new Pixel();
 
         hoofd.xPos = screenwidth / 2;
 
